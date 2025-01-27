@@ -1,0 +1,1 @@
+after bare repo creation
