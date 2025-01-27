@@ -1,2 +1,4 @@
 This is very simple file for git usage. 
 This is after first commit.
+
+This added in branch dev1
