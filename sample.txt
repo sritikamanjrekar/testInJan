@@ -1,1 +1,2 @@
-This is very simple file for git usage.
+This is very simple file for git usage. 
+This is after first commit.
