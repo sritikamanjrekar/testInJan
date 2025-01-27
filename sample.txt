@@ -3,4 +3,6 @@ This is after first commit.
 
 This added in branch dev1
 
-modfied 
+modfied
+
+bare repo
